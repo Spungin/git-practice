@@ -3,4 +3,3 @@
 - egg
 - bread
 - potato
--candy
